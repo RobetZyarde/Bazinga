@@ -10,8 +10,12 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="ShopBase.lvclass" Type="LVClass" URL="../ShopBase.lvclass"/>
-		<Item Name="依赖关系" Type="Dependencies"/>
+		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
+		<Item Name="依赖关系" Type="Dependencies">
+			<Item Name="main.ctl" Type="VI" URL="../main.ctl"/>
+		</Item>
 		<Item Name="程序生成规范" Type="Build"/>
 	</Item>
 </Project>
