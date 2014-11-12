@@ -10,6 +10,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="FoodBase.lvclass" Type="LVClass" URL="../FoodBase.lvclass"/>
+		<Item Name="InfoTable.lvclass" Type="LVClass" URL="../InfoTable.lvclass"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="ShopBase.lvclass" Type="LVClass" URL="../ShopBase.lvclass"/>
 		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
