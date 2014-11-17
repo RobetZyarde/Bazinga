@@ -1,0 +1,72 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>13.0</Version>
+<Array>
+<Name>数组</Name>
+<Dimsize>4</Dimsize>
+<Cluster>
+<Name>食品信息 3</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>ID</Name>
+<Val>3.00000000000000</Val>
+</DBL>
+<String>
+<Name>食品名称</Name>
+<Val>33</Val>
+</String>
+<DBL>
+<Name>价格</Name>
+<Val>33.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>食品信息 3</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>ID</Name>
+<Val>3.00000000000000</Val>
+</DBL>
+<String>
+<Name>食品名称</Name>
+<Val>33</Val>
+</String>
+<DBL>
+<Name>价格</Name>
+<Val>33.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>食品信息 3</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>ID</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<String>
+<Name>食品名称</Name>
+<Val>11</Val>
+</String>
+<DBL>
+<Name>价格</Name>
+<Val>111.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>食品信息 3</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>ID</Name>
+<Val>7.00000000000000</Val>
+</DBL>
+<String>
+<Name>食品名称</Name>
+<Val>1177</Val>
+</String>
+<DBL>
+<Name>价格</Name>
+<Val>77.00000000000000</Val>
+</DBL>
+</Cluster>
+</Array>
+</LVData>

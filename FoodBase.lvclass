@@ -21,13 +21,13 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="addFoodInfo.vi" Type="VI" URL="../addFoodInfo.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$`!!!!$!!%!!!!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!1!#!!-*:8*S&lt;X)A&lt;X6U!#"!5!!$!!%!!A!$%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!#5!+!!**2!!!%E!Q`````QD+M];XQ`OTRA!!#U!+!!3]W\DR!!!71&amp;!!!Q!'!!=!#!D+M];XU-80IA!!%E"!!!(`````!!E%SPX8[1!!3!$Q!!I!!!!!!!!!!!!%!!5!!!!!!!E!#A)!!.!!!!!!!!!!!!!!!!!!!!!!!!!*!!!!#!!!!!!!!!!!!!!!#!!!!!A!!!!!!1!,!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$`!!!!$!!%!!!!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!1!#!!-*:8*S&lt;X)A&lt;X6U!#"!5!!$!!%!!A!$%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!#5!+!!**2!!!%E!Q`````QD+M];XQ`OTRA!!#U!+!!3]W\DR!!!71&amp;!!!Q!'!!=!#!D+M];XU-80IA!!%E"!!!(`````!!E%SPX8[1!!3!$Q!!I!!!!!!!!!!!!%!!5!!!!!!!E!#A)!!.!!!!!!!!!!!!!!!!!!!!!!!!!."1!!#A!!!!!!!!!!!!!!#A!!!1I!!!!!!1!,!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
 	</Item>
 	<Item Name="FoodInfo.vi" Type="VI" URL="../FoodInfo.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"A!!!!"A!*1!I!!EF%!!!31$$`````#-KTRL@$_\0'!!!,1!I!",T&lt;O0%!!":!5!!$!!!!!1!##-KTRL@1R=_C!!!%!!!!'!$Q!!)!!Q!%!A!!#!!!#1!!!!!!!!!!!1!&amp;!!!!!!</Property>
@@ -38,6 +38,15 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
+	<Item Name="readFoodInfo.vi" Type="VI" URL="../readFoodInfo.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"K!!!!"A!*1!I!!EF%!!!31$$`````#-KTRL@$_\0'!!!,1!I!",T&lt;O0%!!"B!5!!$!!!!!1!##MKTRL@1R=_C)$-!!"*!1!!"`````Q!$"-L^V_E!!")!]!!"!!1$!!!!!!!*!!!!!!%!"1!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710290</Property>
+	</Item>
 	<Item Name="removeFoodInfo.vi" Type="VI" URL="../removeFoodInfo.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#^!!!!"Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!6!$Q!!Q!!Q!%!!1!"!!%!!1!"!!%!!5!"!!%!!1#!!"Y!!!.#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!!!!!!!!!1!'!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -46,6 +55,15 @@
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
+	</Item>
+	<Item Name="saveFoodInfo.vi" Type="VI" URL="../saveFoodInfo.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"K!!!!"A!*1!I!!EF%!!!31$$`````#-KTRL@$_\0'!!!,1!I!",T&lt;O0%!!"B!5!!$!!!!!1!##MKTRL@1R=_C)$-!!"*!1!!"`````Q!$"-L^V_E!!")!]!!"!!1$!!!!!!!)!!!!!!%!"1!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
 	<Item Name="SearchFoodInArray.vi" Type="VI" URL="../SearchFoodInArray.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#E!!!!#1!21!-!#U:P&gt;7ZE)%FO:'6Y!!R!)1:&amp;?'FT&gt;$]!!!F!!Q!#351!!!F!#A!#351!!"*!-0````])SL0'N]0\M]9!!!N!#A!%P.OY]1!!&amp;E"1!!-!!Q!%!!5)SL0'N^$&amp;T[)!!":!1!!"`````Q!'#.$&amp;T[,+`&gt;@J!!!E!0!!"!!!!!%!!A!(!Q!!+!!!#1!!!!E!!!!+!!!##!!!!!!"!!A!!!!!</Property>
