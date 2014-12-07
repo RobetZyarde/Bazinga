@@ -21,7 +21,7 @@
 		</Item>
 		<Item Name="FoodPlane.vi" Type="VI" URL="../FoodPlane.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
-		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
+		<Item Name="ShopPlane.vi" Type="VI" URL="../ShopPlane.vi"/>
 		<Item Name="依赖关系" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="compatCalcOffset.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatCalcOffset.vi"/>
