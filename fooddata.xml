@@ -3,7 +3,7 @@
 <Version>13.0</Version>
 <Array>
 <Name>数组</Name>
-<Dimsize>3</Dimsize>
+<Dimsize>6</Dimsize>
 <Cluster>
 <Name>食品信息 3</Name>
 <NumElts>3</NumElts>
@@ -50,6 +50,54 @@
 <DBL>
 <Name>价格</Name>
 <Val>3333.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>食品信息 3</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>ID</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<String>
+<Name>食品名称</Name>
+<Val>米饭</Val>
+</String>
+<DBL>
+<Name>价格</Name>
+<Val>0.30000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>食品信息 3</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>ID</Name>
+<Val>2.00000000000000</Val>
+</DBL>
+<String>
+<Name>食品名称</Name>
+<Val>面条</Val>
+</String>
+<DBL>
+<Name>价格</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>食品信息 3</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>ID</Name>
+<Val>3.00000000000000</Val>
+</DBL>
+<String>
+<Name>食品名称</Name>
+<Val>青菜</Val>
+</String>
+<DBL>
+<Name>价格</Name>
+<Val>1.50000000000000</Val>
 </DBL>
 </Cluster>
 </Array>

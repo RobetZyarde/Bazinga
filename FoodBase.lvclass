@@ -31,7 +31,7 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
 	</Item>
 	<Item Name="foodassert.vi" Type="VI" URL="../foodassert.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$6!!!!#1!%!!!!#E!B".8^S,=!!"&gt;!#A!2P.OY]3D1I&gt;0;N=D4WK/J)$-!%%!Q`````Q&lt;$_\0')$-!!"&gt;!#A!2P.OY]3D1I&gt;0;N=D4WK/J)$)!%%!Q`````Q&lt;$_\0')$)!!!N!#A!%P.OY]1!!%E!Q`````QD+M];XQ`OTRA!!6!$Q!!Q!!!!"!!)!!Q!!!!!!!!!!!!1!"1!'!!=#!!"Y!!!!!!!!#1!!!!U+!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!))!!!!#!!!!AA!!!!!!1!)!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$6!!!!#1!%!!!!#E!B".8^S,=!!"&gt;!#A!2P.OY]3D1I&gt;0;N=D4WK/J)$-!%%!Q`````Q&lt;$_\0')$-!!"&gt;!#A!2P.OY]3D1I&gt;0;N=D4WK/J)$)!%%!Q`````Q&lt;$_\0')$)!!!N!#A!%P.OY]1!!%E!Q`````QD+M];XQ`OTRA!!6!$Q!!Q!!!!"!!)!!Q!!!!!!!!!!!!1!"1!'!!=#!!"Y!!!!!!!!#1!!!!U+!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!))!!!!#!!!!!I!!!!!!1!)!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>

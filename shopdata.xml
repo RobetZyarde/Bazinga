@@ -1,0 +1,36 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>13.0</Version>
+<Array>
+<Name>数组 2</Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name>商店信息</Name>
+<NumElts>5</NumElts>
+<DBL>
+<Name>ID</Name>
+<Val></Val>
+</DBL>
+<String>
+<Name>商店名称</Name>
+<Val></Val>
+</String>
+<String>
+<Name>商店位置</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>是否营业</Name>
+<Val></Val>
+</Boolean>
+<Array>
+<Name>菜品ID</Name>
+<Dimsize>0</Dimsize>
+<DBL>
+<Name>数值</Name>
+<Val></Val>
+</DBL>
+</Array>
+</Cluster>
+</Array>
+</LVData>

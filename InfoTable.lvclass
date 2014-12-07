@@ -30,12 +30,12 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
 	<Item Name="ShopTable.vi" Type="VI" URL="../ShopTable.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$^!!!!#Q!-1#%'28BJ=X1`!!!%!!!!#5!+!!**2!!!%E!Q`````QD+M];XQ`OTRA!!#U!+!!3]W\DR!!!91&amp;!!!Q!#!!-!"!L+M];XU-80IC!S!!!91&amp;!!!Q!#!!-!"!L+M];XU-80IC!T!!!31%!!!@````]!"A4+`&gt;@J!!!71&amp;!!!Q!#!!-!"!D+M];XU-80IA!!+U!7!!9%M;/UZA3\]=CB"-@FP^5%MO8)[Q4*PL0^",,JU;]!"-/WPNE!!$Q!]!!)!!!!!1!&amp;!!=!#!!"!!E!!1-!!'!!!!E!!!!!!!!!#1!!!!E!!!!+!!!!!!!!!!I!!!!!!!!!!!%!#A!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%F!!!!$1!-1#%'28BJ=X1`!!!%!!!!#5!+!!**2!!!%E!Q`````QD*T,8KQ`OTRA!!%E!Q`````QD*T,8KTLP7QQ!!$E!B#-L(N`(4KN+V!!!,1!I!"-L^VL5!!"2!1!!"`````Q!'"L,,RL&gt;*2!!!(%"1!!5!!A!$!!1!"1!(#MH-N?L1R=_C)$-!!"2!1!!"`````Q!)"ML^V_EA-A!!(%"1!!5!!A!$!!1!"1!(#MH-N?L1R=_C)$)!!#N!&amp;A!'",'DN/9%O`()I14(Z&lt;`6",,FS/M%S&lt;[T`13S[&gt;'P!!4$NL\:!!!]!0!!#!!!!!%!#1!+!!%!!1!,!!%$!!"A!!!*!!!!!!!!!!E!!!!*!!!!!!!!!!!!!!!+!!!!!!!!!!!"!!Q!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
 </LVClass>
